@@ -1,0 +1,16 @@
+body {
+background-image: url(FondoGD3.png);
+}
+
+#div-title h2{
+    opacity: .8;
+    background-color: rgb(235, 208, 33);
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+    align-items: center;
+}
+
+#div-content{
+    align-content: center;
+}
